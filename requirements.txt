@@ -1,0 +1,13 @@
+torch
+duckdb
+pandas
+numpy
+tqdm
+scipy
+scikit-learn
+matplotlib
+seaborn
+sentence-transformers
+anthropic
+pyarrow
+python-dotenv
